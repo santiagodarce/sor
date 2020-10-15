@@ -13,6 +13,11 @@ Debajo dejo el contenido que genera el programa en el archivo log,txt al ejecuta
 
 ![Captura de pantalla de 2020-10-15 17-26-39](https://user-images.githubusercontent.com/72938718/96182369-c50db980-0f0b-11eb-89d2-b537a234159a.png)
 
+Como el equipo 3 fue el primero en armar las hamburguesas es el equipo ganador;
+
+--Podria cambiar el texto y lugar de indicar "El equipo x es el ganador" podria decirse "El equipo x entrega las hamburuesas y es el ganado"
+
+
 Ejecutando equipo 3 
 --------------------------------------------------x
 	Equipo 3 - accion cortar 
