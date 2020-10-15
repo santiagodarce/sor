@@ -144,7 +144,7 @@ Ejecutando equipo 2
 --------------------------------------------------
 	---------------EQUIPO 3 ES EL GANADOR!!!-------------
 
-
+No logre que el programa leyera desde la receta subo la ultima version del programa en c generado que aun cuenta con errores, el nombre del archivo es borrador.c
 
 
 
